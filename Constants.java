@@ -2,7 +2,7 @@ package projectbms;
 
 public class Constants {
 
-    public static String Title = new String("Bussines Managment System ");
+    public static String Title = new String("Inventory Managment System ");
     public static String subTitle = new String("Invoice");
 
     public static String name = new String("K Malleswara Rao ");
