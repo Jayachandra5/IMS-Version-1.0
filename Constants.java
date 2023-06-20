@@ -13,9 +13,6 @@ public class Constants {
 
     //New 
     /*                      Product                                */
-  //  public static String productDB = "jdbc:sqlite:C:\\Ybm/pro1.db";
-    
-  // public static String productDB = "jdbc:sqlite:C:\\Users\\Rose\\Desktop\\YBM\\DB\\pro1.db";
     
     public static String productDB = "jdbc:sqlite:C:\\IMS\\DB\\pro1.db";
     
