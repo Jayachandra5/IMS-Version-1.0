@@ -11,8 +11,6 @@ public class Constants {
     public static String gstNum = new String("GSTXXXX5818");
     public static String address = new String("Shop Num 97, K.G Market, 1 town,Vijayawada 520001");
 
-//    public static String productDataBase = "jdbc:sqlite:V://projectBms/bmsList1.db";
-
     //New 
     /*                      Product                                */
   //  public static String productDB = "jdbc:sqlite:C:\\Ybm/pro1.db";
