@@ -39,9 +39,6 @@ public class Constants {
    
     
     /*                      Manage                                */
-  // public static String mangeDB = "jdbc:sqlite:C:\\Ybm/mange1.db";
-    
-   // public static String mangeDB = "jdbc:sqlite:C:\\Users\\Rose\\Desktop\\YBM\\DB\\mange1.db";
     
      public static String mangeDB = "jdbc:sqlite:C:\\IMS\\DB\\mange1.db";
     
