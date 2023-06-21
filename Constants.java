@@ -30,9 +30,6 @@ public class Constants {
 
     
     /*                      Employee                                */            
-   // public static String employeeDB = "jdbc:sqlite:C:\\Ybm/emp1.db";
-    
-   // public static String employeeDB = "jdbc:sqlite:C:\\Users\\Rose\\Desktop\\YBM\\DB\\emp1.db";
     
     public static String employeeDB = "jdbc:sqlite:C:\\IMS\\DB\\emp1.db";
     public static String employeeTable = "employeeData";  //bmsemp1
