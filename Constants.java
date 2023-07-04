@@ -16,7 +16,7 @@ public class Constants {
     
     public static String productDB = "jdbc:sqlite:C:\\IMS\\DB\\pro1.db";
     
-    public static String ProductTable = "purchased";   // bmsbuy1
+    public static String ProductTable = "purchased";   
     
     public static String sellTable = "SellTable"; //lastSellTable
     
